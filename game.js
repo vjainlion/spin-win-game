@@ -1,4 +1,4 @@
-// game 
+// game for spin and win
 
 let config = {
     width: 800,
